@@ -1,0 +1,45 @@
+username: washington
+full name: George Washington
+password: WWWWWWWWWWWWWWW
+email: gw@example.com
+
+username: adams
+full name: John Adams
+password: AAAAAAAAAAAAAAAAAAAAAAA
+email: ja@example.com
+
+username: jefferson
+full name: Thomas Jefferson
+password: password3
+email: tj@example.com
+
+username: madison
+full name: James Madison
+password: password4
+email: jm@example.com
+
+username: monroe
+full name: James Monroe
+password: MMMMMMMMMMMMMMMMMMMMMMMMM
+email: jm@example.com
+
+username: jackson
+full name: Andrew Jackson
+password: password6
+email: aj@example.com
+
+username: lincoln
+full name: Abraham Lincoln
+password: password7
+email: al@example.com
+
+username: roosevelt
+full name: Theodore Roosevelt
+password: rooseveltUpdateAfterSetOfUsers
+email: tr@example.com
+
+username: kennedy
+full name: kenn
+password: aaaaa
+email: kennedy@KKKK.com
+
